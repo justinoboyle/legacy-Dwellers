@@ -1,0 +1,5 @@
+name: Dwellers
+version: 1.0
+main: com.arrayprolc.dwellers.core.DwellersCore
+commands:
+    sc:
